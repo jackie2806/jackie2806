@@ -1,7 +1,6 @@
-### Hi there! 👋
+### Hola! 👋
 
- 👨🏻‍💻 My name is Jackie and I am here to learn coding. I like to read novels and walking!!!
- 
+ 👨🏻‍💻 Me gusta mucho descubrir ideas a través de la lectura, lo cual me ha permitido desarrollar mi pensamiento crítico. Del sector jurídico pasé al sector tecnológico, por pura curiosidad innata, cuando llegué a escribir mi primer "Hello World" en Javascript; desde ese momento no he parado de leer y escribir código.
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp;  HTML | CSS | JavaScript 
