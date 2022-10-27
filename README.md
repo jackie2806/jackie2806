@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**jackie2806/jackie2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🌱 I’m currently learning Javascript
