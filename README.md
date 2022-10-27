@@ -1,25 +1,13 @@
-### Hi there 👋
+### Hi there! My name is Jackie and I am here to learn coding 👋
 
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
+<h3> 👨🏻‍💻 More about Me </h3>
+I I like to read novels and walking!!!
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; Firebase 
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Figma 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/jackie2806/github-readme-stats)
-
 
 <h3> 🤝🏻 Connect with Me ⭐️ </h3>
 
