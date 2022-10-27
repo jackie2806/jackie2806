@@ -1,7 +1,7 @@
 ### Hi there! My name is Jackie and I am here to learn coding 👋
 
 <h3> 👨🏻‍💻 More about Me </h3>
-I I like to read novels and walking!!!
+I like to read novels and walking!!!
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
