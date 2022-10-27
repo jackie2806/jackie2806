@@ -1,6 +1,5 @@
-### Hola! 👋
-
- 👨🏻‍💻 Me gusta mucho descubrir ideas a través de la lectura, lo cual me ha permitido desarrollar mi pensamiento crítico. Del sector jurídico pasé al sector tecnológico, por pura curiosidad innata, cuando llegué a escribir mi primer "Hello World" en Javascript; desde ese momento no he parado de leer y escribir código.
+### Hi there! 👋
+ 👨🏻‍💻 I really like discovering ideas through reading, which has allowed me to develop my critical thinking. From the legal sector I moved to the technological sector, out of pure innate curiosity, when I wrote my first "Hello World" in Javascript; Since then I have not stopped reading and writing code.  ⭐️
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp;  HTML | CSS | JavaScript 
@@ -8,11 +7,11 @@
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Figma 
 
-<h3> 🤝🏻 Connect with Me ⭐️ </h3>
+<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="left">
-&nbsp; <a href="https://www.linkedin.com/in/jackelinepuruaya/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="70" /></a>
-&nbsp; <a href="mailto:jpuruaya@ufm.edu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="70" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/jackelinepuruaya/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="55" /></a>
+&nbsp; <a href="mailto:jpuruaya@ufm.edu" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="55" /></a>
 </p>
 
 
