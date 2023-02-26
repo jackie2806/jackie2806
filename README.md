@@ -3,9 +3,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp;  HTML | CSS | JavaScript 
-- 🛢 &nbsp; Firebase 
-- 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Figma 
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
