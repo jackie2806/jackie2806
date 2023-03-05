@@ -2,7 +2,7 @@
  👨🏻‍💻 I really like discovering ideas through reading, which has allowed me to develop my critical thinking. From the legal sector I moved to the technological sector, out of pure innate curiosity, when I wrote my first "Hello World" in Javascript; since then I have not stopped reading and writing code.  ⭐️
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp;  HTML | CSS | JavaScript 
+🌐 &nbsp;  HTML | CSS | JavaScript 
 
 
 <h3> 🤝🏻 Connect with Me </h3>
