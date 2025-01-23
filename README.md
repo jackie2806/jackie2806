@@ -1,5 +1,5 @@
 ### Hi there! 👋
- 👨🏻‍💻 From the legal sector I moved to the technological sector, out of pure innate curiosity, when I wrote my first "Hello World" in JavaScript⭐️
+ 👨🏻‍💻 From the legal sector I moved to the technological sector, out of pure innate curiosity ⭐️
 
 <h3> 🤝🏻 Connect with Me </h3>
 
